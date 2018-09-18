@@ -1,17 +1,19 @@
 ![adaptive-logo](./doc/adaptive.jpeg)
 
+adaptiv:: is an MDO framework targeted primarily at the aerospace industry. It is written in C++ and the main design driver is *efficiency*. *Modularity* and *extensibility* are also important attributes to realize the goal of providing standalone multiphysics and optimization libraries as well as an engine for their integration.
+
 ## References & guides
 
 1. Git cheat sheet for quick reference of commonly used command line instructions
 
-1. C++ book guide (WIP)
+2. C++ book guide (WIP)
     * **Bigginer introduction**
         1. [Programming: Principles and Practice Using C++](https://www.amazon.com/dp/0321992784/)
     * **Standard Template Library**
         1. Containers
-        1. Iterators
-        1. Algorithms
-1. Google C++ testing framework
+        2. Iterators
+        3. Algorithms
+3. Google C++ testing framework
 
 ## Planning
 
@@ -23,4 +25,7 @@
         * [LibFlatArray](http://www.libgeodecomp.org/libflatarray.html)
 ##
 
-<img align="right" src="./doc/IST_logo.png" height="100" alt="IST-logo" >
+<p align="right">
+    <a ref="https://tecnico.ulisboa.pt/en/">
+    <img src="./doc/IST_logo.png" height="100" alt="IST-logo" align="right" >
+</p>
