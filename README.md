@@ -22,5 +22,5 @@
         * [A Class Template for N-Dimensional Generic Resizable Arrays](http://www.drdobbs.com/a-class-template-for-n-dimensional-gener/184401319)
         * [LibFlatArray](http://www.libgeodecomp.org/libflatarray.html)
         * 
-___
+##
 <img style="float: right;" src="./doc/IST_logo.png" height="200" alt="IST-logo" >
