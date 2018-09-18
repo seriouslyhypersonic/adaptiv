@@ -23,6 +23,4 @@
         * [LibFlatArray](http://www.libgeodecomp.org/libflatarray.html)
 ##
 
-<p align="right">
-    <img src="./doc/IST_logo.png" height="100" alt="IST-logo" >
-</p>
+<img align="right" src="./doc/IST_logo.png" height="100" alt="IST-logo" >
