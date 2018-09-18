@@ -1,4 +1,4 @@
-# ![alt text](doc/adaptive.jpg)
+# ![alt text](doc/adaptive.jpeg)
 
 ## References & guides
 
