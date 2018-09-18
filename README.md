@@ -2,6 +2,12 @@
 
 adaptiv:: is an MDO framework targeted primarily at the aerospace industry. It is written in C++ and the main design driver is *efficiency*. *Modularity* and *extensibility* are also important attributes to realize the goal of providing standalone multiphysics and optimization libraries as well as an engine for their integration.
 
+```cpp
+#include "adp/fluid.h"
+#include "adp/solid.h"
+#include "adp/accoustics.h"
+```
+
 ## References & guides
 
 1. Git cheat sheet for quick reference of commonly used command line instructions
